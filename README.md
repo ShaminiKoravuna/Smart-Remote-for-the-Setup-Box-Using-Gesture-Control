@@ -8,4 +8,4 @@ Arduino can flash an infrared LED at 38 kHz. With this project we can design a g
 using a glove, it can be fixed to the hand, we can send any signal of any length, at any related frequency, and
 thus we can design a universal remote
 
-link for IEEE paper (https://www.ijera.com/papers/Vol6_issue4/Part%20-%203/D060403018025.pdf
+link for the research paper (https://www.ijera.com/papers/Vol6_issue4/Part%20-%203/D060403018025.pdf
